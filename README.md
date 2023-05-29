@@ -1,6 +1,3 @@
-# API - Controle de vagas de garagem
+# API - Garage Parking Management
 
-
-API em SpringBoot para controle de vagas de garagem e registro de usuários, utilizando Java, JPA, PostgreSQL.
-O projeto envolveu a criação de um sistema seguro de registro e autenticação de usuários, além da implementação de funcionalidades de controle de vagas de garagem.
-Durante o projeto, adquiri experiência em Java, Spring, JPA e PostgreSQL, bem como habilidades em padrões de design como Controllers, Services, Repositories.
+SpringBoot API for garage parking management and user registration, using Java, JPA, PostgreSQL. The project involved the creation of a secure user registration and authentication system, as well as the implementation of garage parking control functionalities. Throughout the project, I gained experience in Java, Spring, JPA, and PostgreSQL, as well as skills in design patterns such as Controllers, Services, and Repositories.
